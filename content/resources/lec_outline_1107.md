@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d303355b-4e12-b063-c3b8-d10f5ea93b25
 resourcetype: Document
 title: lec_outline_1107.pdf
 uid: e608625d-8f34-923c-e329-006d91198463

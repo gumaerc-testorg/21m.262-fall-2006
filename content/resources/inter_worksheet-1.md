@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cedebc07-a700-3f57-97a9-0b4d2b33ae83
 resourcetype: Document
 title: inter_worksheet.pdf
 uid: e6ee6cfd-8be1-869f-3e68-7631dd988fe1

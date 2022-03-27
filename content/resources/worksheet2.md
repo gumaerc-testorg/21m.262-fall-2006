@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cedebc07-a700-3f57-97a9-0b4d2b33ae83
 resourcetype: Document
 title: worksheet2.pdf
 uid: 8ee91f66-d23a-c489-e4b3-a36a35ef14aa
