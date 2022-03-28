@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: cedebc07-a700-3f57-97a9-0b4d2b33ae83
 ---
@@ -17,9 +18,9 @@ Students are required to attend at least two concerts and submit a paragraph abo
 Worksheets
 ----------
 
-Worksheet 1: Intervals and Functions - Webern's Fünf Sätze ([PDF]({{< baseurl >}}/resources/inter_worksheet-1))
+Worksheet 1: Intervals and Functions - Webern's Fünf Sätze ({{< resource_link e6ee6cfd-8be1-869f-3e68-7631dd988fe1 "PDF" >}})
 
-Worksheet 2: Twelve-tone Row Worksheet ([PDF]({{< baseurl >}}/resources/worksheet2))
+Worksheet 2: Twelve-tone Row Worksheet ({{< resource_link 8ee91f66-d23a-c489-e4b3-a36a35ef14aa "PDF" >}})
 
 Presentations
 -------------

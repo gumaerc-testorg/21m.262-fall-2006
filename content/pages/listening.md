@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Listening
 uid: 95126c3a-c01e-c2ea-4d4f-205cdfc1c6d7
 ---
@@ -177,7 +178,7 @@ Webern, Anton. _Fünf Sätze_ (Five Movements) _for String Quartet_, Op. 5, move
 
 Berg, Alban. _Wozzeck_, Act I, first scene, and Act III, scene 3. (1917-1922). Hamburg State Philharmonic Orchestra; Ingo Metzmacher, conductor. EMI/Angel, 2002.
 
-DVD: ———. [_Wozzeck_]({{< baseurl >}}/pages/listening). Frankfurt Opera. Kultur Video, 2003.
+DVD: ———. {{< resource_link 95126c3a-c01e-c2ea-4d4f-205cdfc1c6d7 "_Wozzeck_" >}}. Frankfurt Opera. Kultur Video, 2003.
 
 
 {{< tdclose >}}
