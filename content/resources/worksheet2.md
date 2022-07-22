@@ -6,6 +6,7 @@ file: /courses/21m-262-modern-music-1900-1960-fall-2006/8ee91f66d23ac489e4b3a36a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: worksheet2.pdf
 uid: 8ee91f66-d23a-c489-e4b3-a36a35ef14aa
 ---
 This resource contain an excerpt from a really awful twelve-tone string quartet by a composer who shall remain nameless.
-
