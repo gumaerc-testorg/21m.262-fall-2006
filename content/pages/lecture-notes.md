@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the lectures for this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d303355b-4e12-b063-c3b8-d10f5ea93b25
 ---
@@ -49,7 +53,7 @@ Antecedents and the State of Music, 1899. The "Long Nineteenth Century." 1900-19
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Stravinsky Throws Down the Gauntlet ([PDF]({{< baseurl >}}/resources/outline_912))
+Stravinsky Throws Down the Gauntlet ({{% resource_link b07d334d-a1c7-b805-65a9-3504a049a6e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Stravinsky Throws Down the Gauntlet ([PDF]({{< baseurl >}}/resources/outline_912
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Bartok ([PDF]({{< baseurl >}}/resources/outline_914))
+Bartok ({{% resource_link 2c16cce5-907b-ee4b-0974-d9c8c4ad1836 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Bartok ([PDF]({{< baseurl >}}/resources/outline_914))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-German Music between the Wars (And a Little Before and After...) ([PDF]({{< baseurl >}}/resources/outline_919))
+German Music between the Wars (And a Little Before and After...) ({{% resource_link 3306c4bd-9cfb-0046-5d36-e7c6c5a76471 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ German Music between the Wars (And a Little Before and After...) ([PDF]({{< base
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Second Viennese School: Tonality and Atonality ([PDF]({{< baseurl >}}/resources/outline_921))
+The Second Viennese School: Tonality and Atonality ({{% resource_link 6be390a4-7841-de79-ac0f-11aa327b6931 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ The Second Viennese School: Tonality and Atonality ([PDF]({{< baseurl >}}/resour
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The Second Viennese School: Twelve-Tone Tonality ([PDF]({{< baseurl >}}/resources/outline_926))
+The Second Viennese School: Twelve-Tone Tonality ({{% resource_link efb3743f-a0e2-9ce6-716a-0189c84be6cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +140,7 @@ Ruth Crawford Seeger and other American Modernists
 11
 {{< tdclose >}}
 {{< tdopen >}}
-The "Art-Scientists": Cowell, Antheil, Varese ([PDF]({{< baseurl >}}/resources/outline_1017))
+The "Art-Scientists": Cowell, Antheil, Varese ({{% resource_link 80bf3815-f8ce-ca7b-6156-7f4201f7fce8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +167,7 @@ Aaron Copland (Guest Lecture)
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Virgil Thomson ([PDF]({{< baseurl >}}/resources/lec_outline_1026))
+Virgil Thomson ({{% resource_link 0d830e90-53de-0344-d0e9-ef77ec329487 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +182,7 @@ Virgil Thomson ([PDF]({{< baseurl >}}/resources/lec_outline_1026))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The Continued Tonal Tradition I: Britten and Barber ([PDF]({{< baseurl >}}/resources/lec_outline_1031))
+The Continued Tonal Tradition I: Britten and Barber ({{% resource_link e2ffe060-ec9c-43f8-7e00-20da0d39f80f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +191,7 @@ The Continued Tonal Tradition I: Britten and Barber ([PDF]({{< baseurl >}}/resou
 16
 {{< tdclose >}}
 {{< tdopen >}}
-The Continued Tonal Tradition II: Shostakovich ([PDF]({{< baseurl >}}/resources/lec_outline_1107))
+The Continued Tonal Tradition II: Shostakovich ({{% resource_link e608625d-8f34-923c-e329-006d91198463 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +200,7 @@ The Continued Tonal Tradition II: Shostakovich ([PDF]({{< baseurl >}}/resources/
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Oliver Messiaen ([PDF]({{< baseurl >}}/resources/lec_outline_1109))
+Oliver Messiaen ({{% resource_link ea6fa941-ea4c-dd54-7f05-82e692c31381 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +209,7 @@ Oliver Messiaen ([PDF]({{< baseurl >}}/resources/lec_outline_1109))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Total Serialism 1: Babbitt and Stockhausen ([PDF]({{< baseurl >}}/resources/outline_1114))
+Total Serialism 1: Babbitt and Stockhausen ({{% resource_link 942dde78-519f-a168-9b93-224d28686a53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +227,7 @@ Serialism 2: Nono and Stravinsky
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Boulez, Carter and the Legacy of Serial Aesthetic ([PDF]({{< baseurl >}}/resources/outline_1121))
+Boulez, Carter and the Legacy of Serial Aesthetic ({{% resource_link 50c3ca99-d1d3-3cc0-f5b6-107d698f3eed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +236,7 @@ Boulez, Carter and the Legacy of Serial Aesthetic ([PDF]({{< baseurl >}}/resourc
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Electronic Music ([PDF]({{< baseurl >}}/resources/outline_1128))
+Electronic Music ({{% resource_link b673fb9a-a296-55ec-7505-7055d09db613 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +245,7 @@ Electronic Music ([PDF]({{< baseurl >}}/resources/outline_1128))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Cage and Aleatory ([PDF]({{< baseurl >}}/resources/outline_1130))
+Cage and Aleatory ({{% resource_link a703c611-9c50-35df-92b8-3e5ded0ad54b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +256,7 @@ Cage and Aleatory ([PDF]({{< baseurl >}}/resources/outline_1130))
 {{< tdopen >}}
 
 
-Aleatory 2: Open Form, New York School and Fluxus ([PDF]({{< baseurl >}}/resources/outline_1205))
+Aleatory 2: Open Form, New York School and Fluxus ({{% resource_link 85c2ebc8-8258-4726-1e9b-036f98bbf36b "PDF" %}})
 
 (Bring Instruments Today!)
 
@@ -265,7 +269,7 @@ Aleatory 2: Open Form, New York School and Fluxus ([PDF]({{< baseurl >}}/resourc
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Nancarrow and Partch: Two American Originals ([PDF]({{< baseurl >}}/resources/outline_1207))
+Nancarrow and Partch: Two American Originals ({{% resource_link e8af9fb2-8e16-fd97-a837-f36adcd9e76e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
