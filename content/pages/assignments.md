@@ -44,17 +44,17 @@ This assignment involves creating or substantially revising a Wikipedia article 
 
 ### Examples of Student Work
 
-Antheil, George. [Ballet Mécanique](http://en.wikipedia.org/wiki/Ballet_m%C3%A9canique).
+Antheil, George. {{% resource_link "70477def-456a-478d-a051-3196beb71022" "Ballet Mécanique" %}}.
 
-Barber, Samuel. [Knoxville: Summer of 1915](http://en.wikipedia.org/wiki/Knoxville:_Summer_of_1915).
+Barber, Samuel. {{% resource_link "c2a196b7-c423-4ec0-9023-6131c9796c70" "Knoxville: Summer of 1915" %}}.
 
-Bartok, Bela. [Piano Concerto No. 3](http://en.wikipedia.org/wiki/Piano_Concerto_No._3_%28Bart%C3%B3k%29).
+Bartok, Bela. {{% resource_link "21a5b160-e5a3-4884-8133-69ed2e63edb1" "Piano Concerto No. 3" %}}.
 
-Beach, Amy. [Mass in E Flat Major](http://en.wikipedia.org/wiki/Mass_in_E_flat_Major).
+Beach, Amy. {{% resource_link "a6613d57-226d-422c-95ea-63fb79c1c608" "Mass in E Flat Major" %}}.
 
-Ives, Charles. [Three Places in New England](http://en.wikipedia.org/wiki/Three_Places_in_New_England).
+Ives, Charles. {{% resource_link "b7dc6930-f90d-4feb-886a-7301eb831703" "Three Places in New England" %}}.
 
-Seeger, Ruth Crawford. [Chinaman, Laundryman](http://en.wikipedia.org/wiki/Chinaman%2C_Laundryman).
+Seeger, Ruth Crawford. {{% resource_link "c26c351c-c3d0-4ac3-9570-c44dd5e24304" "Chinaman, Laundryman" %}}.
 
 Final Paper
 -----------
