@@ -71,13 +71,13 @@ Joplin, Scott. "Maple Leaf Rag." (1899). Joshua Rifkin, piano. _Ragtime: Music o
 {{< tdopen >}}
 
 
-{{% resource_link "a679690c-c738-4d15-8886-4349061ef38a" "Dvořák: Symphony No. 9 in E minor (\"From the New World\")" %}}
+[Dvořák: Symphony No. 9 in E minor ("From the New World")](http://imslp.org/wiki/Symphony_No._9_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn_Leopold%29)
 
-{{% resource_link "64f5be69-5165-4dcd-a67f-f9f685d08046" "Strauss: Don Quixote" %}}
+[Strauss: Don Quixote](http://imslp.org/wiki/Don_Quixote_%28Strauss%2C_Richard%29)
 
-{{% resource_link "40418643-a57e-40b4-802f-350be65ed9ca" "Wagner: Tristan und Isolde" %}}
+[Wagner: Tristan und Isolde](http://imslp.org/wiki/Tristan_und_Isolde_%28Wagner%2C_Wilhelm_Richard%29)
 
-{{% resource_link "76ce1903-1d5b-4ae2-8956-babab6063284" "Joplin: Maple Leaf Rag" %}}
+[Joplin: Maple Leaf Rag](http://imslp.org/wiki/Maple_Leaf_Rag_%28Joplin%2C_Scott%29)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Ravel, Maurice. _Ma mère l'oye_ (1911-12): "Laideronnette, Impératrice des Pag
 {{< tdopen >}}
 
 
-{{% resource_link "31c7afe9-c15f-4888-a149-14d7154e842d" "Ravel: Ma mère l'oye" %}}
+[Ravel: Ma mère l'oye](http://imslp.org/wiki/Ma_M%C3%A8re_l%27Oye_%28Ravel%2C_Maurice%29)
 
 
 {{< tdclose >}}
@@ -185,9 +185,9 @@ DVD: ———. {{% resource_link 95126c3a-c01e-c2ea-4d4f-205cdfc1c6d7 "_Wozzeck
 {{< tdopen >}}
 
 
-{{% resource_link "b52cf9fa-5ddb-4924-86d3-e4221eea393d" "Schoenberg: Six Little Piano Pieces" %}}
+[Schoenberg: Six Little Piano Pieces](http://imslp.org/wiki/Six_Little_Piano_Pieces_Op.19_%28Schoenberg%2C_Arnold%29)
 
-{{% resource_link "84cfbf63-d474-42eb-a2fb-f1f27f9deba4" "Webern: Five Movements for String Quartet, Op. 5" %}}
+[Webern: Five Movements for String Quartet, Op. 5](http://imslp.org/wiki/Five_Movements_Op.5_%28Webern%2C_Anton%29)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +268,7 @@ Chadwick, George. _Symphonic Sketches_ (1895-1904). Mvmts. 2 ("Noël") and 4 ("A
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "f449b920-d57d-4af1-a259-5c3603667711" "Beach: Mass in E-Flat" %}}
+[Beach: Mass in E-Flat](http://imslp.org/wiki/Mass_in_E-flat%2C_Op.5_%28Beach%2C_Amy_%28Mrs._H._H._A.%29%29)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -585,7 +585,7 @@ Cage and Aleatory
 {{< tdopen >}}
 
 
-Mozart, W. A. (1756-1791), _{{% resource_link "64f08bb7-d065-4192-92da-e3a148f59785" "Musikalisches Würfelspiel" %}}_ (Musical Dice game).
+Mozart, W. A. (1756-1791), _[Musikalisches Würfelspiel](https://imslp.org/wiki/Musikalisches_W%C3%BCrfelspiel,_K.516f_(Mozart,_Wolfgang_Amadeus))_ (Musical Dice game).
 
 Cage, John. _In a landscape_ (for piano) (1948). _Works for piano & prepared piano, Vol._ . Wergo, 1993.
 

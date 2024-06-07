@@ -4,6 +4,7 @@ description: 'This resource contains inforation about Finish: Virgil Thomson,Fou
   Saints in Three Acts, The Continued Tonal Tradition I : Britten and Barber, The
   Continued Tonal Tradition II : Shostakovich.'
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/e2ffe060ec9c43f87e0020da0d39f80f_lec_outline_1031.pdf
+file_size: 47806
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
