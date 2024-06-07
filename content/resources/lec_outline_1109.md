@@ -4,6 +4,7 @@ description: 'This resource contains information about Leftovers : Shostakovich,
   from Testimony, Messiaen : Biographical details : Kevin Krsulich, Quartet for the
   End of Time, Oiseaux Exotiques.'
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/ea6fa941ea4cdd547f0582e692c31381_lec_outline_1109.pdf
+file_size: 69842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
