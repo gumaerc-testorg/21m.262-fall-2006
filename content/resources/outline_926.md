@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about Schoenberg, Pierrot lunaire,
   Twelve-Tone Method, Schoenberg, Fourth String Quartet.
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/efb3743fa0e29ce6716a0189c84be6cc_outline_926.pdf
+file_size: 36889
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

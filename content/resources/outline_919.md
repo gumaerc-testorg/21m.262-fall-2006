@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resourse contains information about Leftovers : Maurice Ravel,
   Music and Politics, Paul Hindemith, The music of Exodus.'
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/3306c4bd9cfb00465d36e7c6c5a76471_outline_919.pdf
+file_size: 51357
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

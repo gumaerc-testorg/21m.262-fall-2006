@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about Intervals and Atonal Process.
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/e6ee6cfd8be1869f3e687631dd988fe1_inter_worksheet.pdf
+file_size: 83850
 file_type: application/pdf
 learning_resource_types:
 - Assignments
