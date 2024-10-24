@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about George Antheil, Henry Cowell,
   Varese.
-file: /courses/21m-262-modern-music-1900-1960-fall-2006/80bf3815f8ceca7b61567f4201f7fce8_outline_1017.pdf
+file: /ol-ocw-studio-app/courses/21m-262-modern-music-1900-1960-fall-2006/80bf3815f8ceca7b61567f4201f7fce8_outline_1017.pdf
 file_size: 39530
 file_type: application/pdf
 learning_resource_types:
