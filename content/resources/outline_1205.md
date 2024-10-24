@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information about Open Score and the Open Work,
   The New York School : John Cage,(Merce Cunningham),(David Tudor), Morton Feldman,
   Earle Brown,Christian Wolff.'
-file: /courses/21m-262-modern-music-1900-1960-fall-2006/85c2ebc8825847261e9b036f98bbf36b_outline_1205.pdf
+file: /ol-ocw-studio-app/courses/21m-262-modern-music-1900-1960-fall-2006/85c2ebc8825847261e9b036f98bbf36b_outline_1205.pdf
 file_size: 43119
 file_type: application/pdf
 learning_resource_types:

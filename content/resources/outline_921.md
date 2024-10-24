@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Schoenberg (1874?51) and atonality,
   Pierrot lunaire.
-file: /courses/21m-262-modern-music-1900-1960-fall-2006/6be390a47841de79ac0f11aa327b6931_outline_921.pdf
+file: /ol-ocw-studio-app/courses/21m-262-modern-music-1900-1960-fall-2006/6be390a47841de79ac0f11aa327b6931_outline_921.pdf
 file_size: 50853
 file_type: application/pdf
 learning_resource_types:
