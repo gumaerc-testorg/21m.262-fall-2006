@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about Leftovers : Aleatory, Introduction
   : Music in the Quadrivium. Immeasurable quantity in proportion, Harry Partch.'
-file: /courses/21m-262-modern-music-1900-1960-fall-2006/e8af9fb28e16fd97a837f36adcd9e76e_outline_1207.pdf
+file: /ol-ocw-studio-app/courses/21m-262-modern-music-1900-1960-fall-2006/e8af9fb28e16fd97a837f36adcd9e76e_outline_1207.pdf
 file_size: 62834
 file_type: application/pdf
 learning_resource_types:
